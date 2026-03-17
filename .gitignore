@@ -1,0 +1,37 @@
+## Visual Studio Build Outputs
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+
+## Visual Studio Environment and Local Settings
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+
+## Compiled Files
+*.dll
+*.exe
+*.pdb
+*.suo
+
+## NuGet Packages and Restore Artifacts
+packages/
+*.nuget.props
+*.nuget.targets
+project.lock.json
+project.assets.json
+
+## Testing and Code Coverage
+TestResults/
+*.resharper
+*.opencoverxml
+
+## OS specific files
+.DS_Store
+Thumbs.db
+
+## Logs and temporary files
+*.log
+*.tmp
